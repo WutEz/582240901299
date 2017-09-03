@@ -11,7 +11,10 @@ void main()
 	printf("a = %d ,b = %d ,c=%d\n",a,b,c);
 	printf("real=%.2f\n",real);
 	printf("point1=%.1f point2=%.0f\n",point1,point2);
-	printf("ch1=%c ch2=%c" ,ch1,ch2) ;
+	printf("choice=%c\n",choice);
+	printf("ch1=%c ch2=%c\n" ,ch1,ch2) ;
 	
+	short int number2 = 32767;
+	printf("number2=%d",number2);
 	
 }
